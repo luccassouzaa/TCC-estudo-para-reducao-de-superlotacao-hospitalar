@@ -1,0 +1,2 @@
+INDEX VERSION 1.4+C:\Users\Luccas Andre\Desktop\PC\TCC\exercicio_Livro-BigData\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+1763183479.index
